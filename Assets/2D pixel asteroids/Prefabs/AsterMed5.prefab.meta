@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65ee5b4a801d6d44eb112962bd3246e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136477
+  packageName: 2D Pixel Asteroids
+  packageVersion: 1.0
+  assetPath: Assets/2D pixel asteroids/Prefabs/AsterMed5.prefab
+  uploadId: 286166

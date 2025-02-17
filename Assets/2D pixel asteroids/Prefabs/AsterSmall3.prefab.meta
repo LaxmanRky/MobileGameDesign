@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97fc4a6e44a6aed4a9f7e4f0a4e48bc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136477
+  packageName: 2D Pixel Asteroids
+  packageVersion: 1.0
+  assetPath: Assets/2D pixel asteroids/Prefabs/AsterSmall3.prefab
+  uploadId: 286166

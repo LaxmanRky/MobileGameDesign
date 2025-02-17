@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3409991c5dab7674db44a89f57ac136f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133395
+  packageName: 2D Pixel Spaceships (2 Small Ships + Explosions)
+  packageVersion: 1.0
+  assetPath: Assets/2D Pixel Spaceships (2 Small Ships + Explosions)/Scripts/ships/BaseBulletStarter.cs
+  uploadId: 279526

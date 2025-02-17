@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0d18f1a7832f6a44fa77efb30bde703e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 136477
+  packageName: 2D Pixel Asteroids
+  packageVersion: 1.0
+  assetPath: Assets/2D pixel asteroids/Prefabs/AsterBig4.prefab
+  uploadId: 286166

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 28744664182ada74f85dcd1aa9dcdefd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133395
+  packageName: 2D Pixel Spaceships (2 Small Ships + Explosions)
+  packageVersion: 1.0
+  assetPath: Assets/2D Pixel Spaceships (2 Small Ships + Explosions)/Animation/FlameSmall.controller
+  uploadId: 279526

@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/325267976/1372737741_BaseBulletStarter.cs => Assets/2D Pixel Spaceships (2 Small Ships + Explosions)/Scripts/ships/BaseBulletStarter.cs

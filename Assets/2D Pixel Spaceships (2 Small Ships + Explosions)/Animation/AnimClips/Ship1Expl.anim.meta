@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef740a4e7f78b4e4ab3d3a3524498883
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 133395
+  packageName: 2D Pixel Spaceships (2 Small Ships + Explosions)
+  packageVersion: 1.0
+  assetPath: Assets/2D Pixel Spaceships (2 Small Ships + Explosions)/Animation/AnimClips/Ship1Expl.anim
+  uploadId: 279526
